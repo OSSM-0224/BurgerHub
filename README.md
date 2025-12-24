@@ -105,7 +105,7 @@ Before you begin, ensure you have the following installed:
 npx react-native init BurgerHub --template typescript
 
 # Or clone from GitHub
-git clone <your-repo-url>
+git clone [<your-repo-url>](https://github.com/OSSM-0224)
 cd burgerhub
 ```
 
@@ -636,9 +636,8 @@ Built as a **React Native Assignment** showcasing:
 - Cross-platform development
 - Professional standards
 
-**GitHub:** [Your Profile URL]  
-**LinkedIn:** [Your Profile URL]  
-**Portfolio:** [Your Website URL]
+**GitHub:** https://github.com/OSSM-0224
+**LinkedIn:** https://www.linkedin.com/in/om-mhatre-8b819025b/
 
 ---
 
